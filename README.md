@@ -7,10 +7,6 @@ Hello and welcome! I'm passionate about technology, innovation, and building imp
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawannikam378&show_icons=true&hide_title=true&count_private=true)
 
-## 📫 Connect With Me
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
 
 ---
 
@@ -20,4 +16,4 @@ Hello and welcome! I'm passionate about technology, innovation, and building imp
 ---
 
 Thanks for visiting! 🚀  
-Feel free to check out my work, connect, or collaborate!
+Feel free to check out my work, connect with me, or collaborate!
