@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
 ## 🌟 About Me
-Hello and welcome! I'm passionate about technology, innovation, and building impactful solutions. Whether you're here to explore my projects, collaborate, or just say hi, I'm glad you stopped by.
+Hello and welcome! I'm passionate about technology, innovation, and building impactful solutions. Whether you're here to explore my projects, or just say hi, I'm glad you stopped by.
 
 
 ## 📈 GitHub Stats
