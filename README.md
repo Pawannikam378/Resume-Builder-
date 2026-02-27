@@ -7,12 +7,6 @@ Hello and welcome! I'm passionate about technology, innovation, and building imp
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawannikam378&show_icons=true&hide_title=true&count_private=true)
 
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — Cory House
-
 ---
 
 Thanks for visiting! 🚀  
